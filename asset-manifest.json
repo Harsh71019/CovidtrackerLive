@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Harsh71019/CovidtrackerLive/static/css/main.d21ee2c3.chunk.css",
-    "main.js": "/Harsh71019/CovidtrackerLive/static/js/main.e0079a21.chunk.js",
-    "main.js.map": "/Harsh71019/CovidtrackerLive/static/js/main.e0079a21.chunk.js.map",
+    "main.js": "/Harsh71019/CovidtrackerLive/static/js/main.a87818c9.chunk.js",
+    "main.js.map": "/Harsh71019/CovidtrackerLive/static/js/main.a87818c9.chunk.js.map",
     "runtime-main.js": "/Harsh71019/CovidtrackerLive/static/js/runtime-main.c7eef70c.js",
     "runtime-main.js.map": "/Harsh71019/CovidtrackerLive/static/js/runtime-main.c7eef70c.js.map",
     "static/js/2.b980bbd0.chunk.js": "/Harsh71019/CovidtrackerLive/static/js/2.b980bbd0.chunk.js",
     "static/js/2.b980bbd0.chunk.js.map": "/Harsh71019/CovidtrackerLive/static/js/2.b980bbd0.chunk.js.map",
     "index.html": "/Harsh71019/CovidtrackerLive/index.html",
-    "precache-manifest.cc4f65350873bd40795e55bd43591c34.js": "/Harsh71019/CovidtrackerLive/precache-manifest.cc4f65350873bd40795e55bd43591c34.js",
+    "precache-manifest.837fcde5c193f674af7a7089593c82f5.js": "/Harsh71019/CovidtrackerLive/precache-manifest.837fcde5c193f674af7a7089593c82f5.js",
     "service-worker.js": "/Harsh71019/CovidtrackerLive/service-worker.js",
     "static/css/main.d21ee2c3.chunk.css.map": "/Harsh71019/CovidtrackerLive/static/css/main.d21ee2c3.chunk.css.map",
     "static/js/2.b980bbd0.chunk.js.LICENSE.txt": "/Harsh71019/CovidtrackerLive/static/js/2.b980bbd0.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.c7eef70c.js",
     "static/js/2.b980bbd0.chunk.js",
     "static/css/main.d21ee2c3.chunk.css",
-    "static/js/main.e0079a21.chunk.js"
+    "static/js/main.a87818c9.chunk.js"
   ]
 }
