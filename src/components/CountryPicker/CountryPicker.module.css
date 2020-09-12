@@ -1,0 +1,10 @@
+.formControl {
+  width: 30%;
+  margin-bottom: 30px !important;
+}
+
+.Select {
+  color: #fff;
+  background-color: #fff;
+  border-radius: 5px;
+}
