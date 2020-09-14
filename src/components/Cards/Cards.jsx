@@ -18,7 +18,11 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
           className={cx(styles.card, styles.infected)}
         >
           <CardContent>
-            <Typography className={styles.Typo} color="textSecondary" gutterBottom>
+            <Typography
+              className={styles.Typo}
+              color="textSecondary"
+              gutterBottom
+            >
               Infected
             </Typography>
             <Typography variant="h5">
@@ -59,7 +63,7 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
               />
             </Typography>{" "}
             <Typography color="textSecondary" gutterBottom>
-              REAL DATE
+              {new Date(lastUpdate).toDateString()}
             </Typography>
             <Typography variant="body2">
               {" "}
@@ -87,7 +91,7 @@ const Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
               />
             </Typography>{" "}
             <Typography color="textSecondary" gutterBottom>
-              REAL DATE
+              {new Date(lastUpdate).toDateString()}
             </Typography>
             <Typography variant="body2">
               {" "}
